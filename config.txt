@@ -1,0 +1,6 @@
+token=NTY2NzI3OTYzNTQyOTQ1Nzky.XLJMkQ.NJ15pYVAGufgfLIAxNaPl4vwQAQ
+owner=323888904602124299
+prefix=7
+game= 7play l 7help
+stayinchannel=true 
+songinstatus=false 
