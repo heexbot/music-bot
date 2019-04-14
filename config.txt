@@ -1,6 +1,6 @@
-token=NTY2NzI3OTYzNTQyOTQ1Nzky.XLJMkQ.NJ15pYVAGufgfLIAxNaPl4vwQAQ
+token=NTY2ODYwMjgwMTk4MzMyNDE3.XLLHyw.-tBw2lWjbmcM_Ay1vKqBSC_gULU
 owner=323888904602124299
-prefix=7
-game= 7play l 7help
+prefix=6
+game= 6play l 6help
 stayinchannel=true 
 songinstatus=false 
